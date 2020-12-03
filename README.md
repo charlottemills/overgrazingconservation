@@ -1,1 +1,2 @@
-# overgrazingconservation
+This is a repository containing all data used in analyses for Mills et al (2020) Grazing by over-abundant native herbivores jeopardizes conservation goals in semi-arid reserves. Global Ecology and Conservation e01384. The open access paper is available here: https://doi.org/10.1016/j.gecco.2020.e01384.
+The paper uses vegetation, soil and mammal assemblage data collected in semi-arid Australia in 2018. Anlayses were conducted in SPSS and thus code is unavailable. Get in touch at charlottemills90@gmail.com or m.letnic@unsw.edu.au if you have any questions. 
